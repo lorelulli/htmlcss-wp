@@ -102,3 +102,8 @@ aside{
 
 
 }
+
+.menu {
+    height: 100px;
+    background-color: yellow;
+}
