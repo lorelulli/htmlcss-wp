@@ -85,9 +85,7 @@ aside{
 
 }
 
-.menu {
 
-}
 
 .credits {
     height: 20%;
@@ -97,7 +95,10 @@ aside{
 }
 
 .social {
-    height: 80%;
+    height: 100px;
     background-color: blue;
+    display: inline;
+    margin-left: 50px;
+
 
 }
