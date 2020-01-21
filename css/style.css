@@ -23,18 +23,18 @@ header {
 
 .nat{
     position: relative;
-    top: 60px;
-    left: 320px;
+    top: 100px;
+    left: 450px;
     border: 2px solid white;
     padding: 20px;
     display: inline-block;
 
 }
 
-.another {
+.anot {
     position: relative;
-    top: 60px;
-    left: 320px;
+    top: 120px;
+    left: 400px;
 }
 
 
@@ -119,4 +119,14 @@ aside{
 .social img {
     padding-left: 250px;
     padding-top: 10px;
+}
+
+.primac a{
+    display: block;
+    margin-bottom: 10px;
+
+}
+
+h3 {
+    margin-bottom: 15px;
 }
