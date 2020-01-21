@@ -11,9 +11,9 @@
 
 
 header {
-    height: 200px;
+    height: 300px;
     background-color: green;
-    margin-bottom: 10px;
+
     border: solid 3px red;
     color: white;
 
@@ -98,12 +98,25 @@ aside{
     height: 100px;
     background-color: blue;
     display: inline;
-    margin-left: 50px;
+
 
 
 }
 
 .menu {
-    height: 100px;
+    height: 50px;
     background-color: yellow;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.menu p{
+    display: inline;
+    padding-left: 15px;
+    position: relative;
+    top: 15px;
+}
+
+.social img {
+    padding-left: 250px;
+    padding-top: 10px;
 }
