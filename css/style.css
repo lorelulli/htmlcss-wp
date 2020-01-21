@@ -11,14 +11,35 @@
 
 
 header {
-    height: 100px;
+    height: 200px;
     background-color: green;
     margin-bottom: 10px;
+    border: solid 3px red;
+    color: white;
 
 }
 
+
+
+.nat{
+    position: relative;
+    top: 60px;
+    left: 320px;
+    border: 2px solid white;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+.another {
+    position: relative;
+    top: 60px;
+    left: 320px;
+}
+
+
 .row {
-    height: 400px;
+    height: 1000px;
     background-color: grey;
 
 }
@@ -30,7 +51,7 @@ header {
 }
 
 footer {
-    height: 50px;
+    height: 100px;
     background-color: blue;
     margin-top: 10px;
 
@@ -38,7 +59,7 @@ footer {
 
 main {
     width: 50%;
-    height: 400px;
+    height: 1000px;
     background-color: white;
     float: left;
     padding: 0px 10px;
@@ -52,7 +73,31 @@ main {
 
 aside{
     width: 25%;
-    height: 400px;
+    height: 1000px;
     background-color: pink;
     float: left;
+}
+
+.scatola {
+    height: 250;
+    background-color: grey;
+    margin-bottom: 10px;
+
+}
+
+.menu {
+
+}
+
+.credits {
+    height: 20%;
+    background: orange;
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+
+.social {
+    height: 80%;
+    background-color: blue;
+
 }
