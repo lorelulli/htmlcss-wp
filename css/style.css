@@ -9,6 +9,9 @@
     margin: 0 auto;
 }
 
+body {
+    background-image: url('https://img.freepik.com/free-photo/wooden-textured-background_53876-14865.jpg?size=626&ext=jpg');
+}
 
 header {
     height: 300px;
